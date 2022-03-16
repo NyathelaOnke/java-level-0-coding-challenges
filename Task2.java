@@ -1,5 +1,4 @@
 class Task02 {
-
     public static void main(String[] args) {
         int x = 1 * 1 * 2;
         int y = (1 + 1) * 2;
@@ -11,6 +10,5 @@ class Task02 {
         System.out.println(z);
         System.out.println(a);
         System.out.println(b);
-	// write your code here
     }
 }
