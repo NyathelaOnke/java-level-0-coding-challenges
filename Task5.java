@@ -1,6 +1,4 @@
-package com.company;
-
-public class Main {
+class Task5 {
 
     public static double triangleArea(int side1, int side2, int side3){
         double semiPerimeter = (side1 + side2 + side3) / 2;
