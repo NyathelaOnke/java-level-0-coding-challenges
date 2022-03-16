@@ -1,6 +1,4 @@
-package com.company;
-
-public class Main {
+class Task3 {
 
     public static void hello (String name){
         System.out.println("Hello " + name + "!");
