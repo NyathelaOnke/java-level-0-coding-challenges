@@ -1,5 +1,4 @@
 class Task010 {
-
     public static void commonLetters(String strOne, String strTwo){
         strOne = strOne.toLowerCase();
         strTwo = strTwo.toLowerCase();
