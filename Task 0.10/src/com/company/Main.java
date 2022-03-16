@@ -1,6 +1,4 @@
-package com.company;
-
-public class Main {
+class Task010 {
 
     public static void commonLetters(String strOne, String strTwo){
         strOne = strOne.toLowerCase();
@@ -19,6 +17,5 @@ public class Main {
     }
     public static void main(String[] args) {
         commonLetters("Houpses", "cOmputers");
-	// write your code here
     }
 }
