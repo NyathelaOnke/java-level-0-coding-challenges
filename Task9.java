@@ -1,6 +1,4 @@
-package com.company;
-
-public class Main {
+class Task9 {
 
     static void vowelsInString(String theStr){
         theStr = theStr.toLowerCase();
@@ -15,6 +13,5 @@ public class Main {
     }
     public static void main(String[] args) {
         vowelsInString("Onke Nyathela");
-	// write your code here
     }
 }
