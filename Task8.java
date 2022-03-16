@@ -1,7 +1,4 @@
-package com.company;
-
-public class Main {
-
+class Task8 {
     static String numberToTime (int num){
         int hour = num / 60;
         int minutes = num % 60;
@@ -14,6 +11,5 @@ public class Main {
     }
     public static void main(String[] args) {
         System.out.println(numberToTime(120));
-	// write your code here
     }
 }
