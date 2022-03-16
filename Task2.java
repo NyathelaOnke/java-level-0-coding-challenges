@@ -3,8 +3,8 @@ class Task02 {
         int x = 1 * 1 * 2;
         int y = (1 + 1) * 2;
         int z = 1 + (1 * 2);
-        double a = 1 + 1 * 2 / 2;
-        double b = (1 + 1 * 2) / 2;
+        double a = 1 + 1 * 2 / 2.0;
+        double b = (1 + 1 * 2) / 2.0;
         System.out.println(x);
         System.out.println(y);
         System.out.println(z);
