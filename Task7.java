@@ -1,6 +1,4 @@
-package com.company;
-
-public class Main {
+class Task7 {
 
     static double celsiusToFahrenheit(int tempInCelsius){
         return (tempInCelsius * 1.8) + 32;
