@@ -1,6 +1,4 @@
-package com.company;
-
-public class Main {
+class Task01 {
     public static void main(String[] args) {
         int x = 0;
         int y = 1;
@@ -10,6 +8,5 @@ public class Main {
         y += x;
         System.out.println(x);
         System.out.println(y);
-	// write your code here
     }
 }
